@@ -16,7 +16,9 @@ public class MergeStringsAlternately {
         int c_count=0;
         
         for(int i=0;i<word1.length()+word2.length();i++){
-            
+        	//loop continues
+        	//adding more comment
+        	
         
         	if(count<word1.length())
         	{
